@@ -1,7 +1,4 @@
-/*
-Template Name: ClassiGrids - Classified Ads and Listing Website Template.
-Author: GrayGrids
-*/
+"user strict";
 
 (function () {
     //===== Prealoder
